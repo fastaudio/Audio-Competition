@@ -44,7 +44,8 @@ Generally you'll see +/- 1% differences from run to run since it's quite a small
 
 | Epochs | URL | Accuracy | # Runs |
 |--|--|--|--|
-|10|[fastaudio baseline](https://github.com/fastaudio/Audio-Competition/blob/master/ESC-50-baseline-1Fold.ipynb)|62.85%|5, mean|
+|20|[fastaudio baseline](https://github.com/fastaudio/Audio-Competition/blob/master/ESC-50-baseline-1Fold.ipynb)|66.64%|5, mean|
+|10|[fastaudio baseline](https://github.com/fastaudio/Audio-Competition/blob/master/ESC-50-baseline-1Fold.ipynb)|62.69%|5, mean|
 
 
 
@@ -56,4 +57,5 @@ Generally you'll see +/- 1% differences from run to run since it's quite a small
 
 | Epochs | URL | Accuracy | # Runs |
 |--|--|--|--|
-|10|[fastaudio baseline](https://github.com/fastaudio/Audio-Competition/blob/master/ESC-50-baseline-AllFolds.ipynb)|62.85%|1|
+|20|[fastaudio baseline](https://github.com/fastaudio/Audio-Competition/blob/master/ESC-50-baseline-AllFolds.ipynb)|67.35%|1|
+|10|[fastaudio baseline](https://github.com/fastaudio/Audio-Competition/blob/master/ESC-50-baseline-AllFolds.ipynb)|64.94%|1|
